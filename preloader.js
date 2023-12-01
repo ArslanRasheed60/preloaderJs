@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://ArslanRasheed60.github.io/preloaderJs/imagem.svg';
+svgImage.src = 'https://ArslanRasheed60.github.io/preloaderJs/ring.svg';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
